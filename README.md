@@ -3,7 +3,7 @@ An android application named CalculatorApp which performs the functions of a bas
 
 ##Screnshots
 
-![developer](https://cloud.githubusercontent.com/assets/25065479/26214426/06fb209e-3c1a-11e7-88f0-3fe1b03af7ce.jpeg)
+![developer](https://cloud.githubusercontent.com/assets/25065479/26214426/06fb209e-3c1a-11e7-88f0-3fe1b03af7ce.jpeg|width=150 height=150)
 ![history](https://cloud.githubusercontent.com/assets/25065479/26214427/0701f4f0-3c1a-11e7-86d7-54bcd5ae8562.jpeg)
 ![scientific_calc](https://cloud.githubusercontent.com/assets/25065479/26214428/0721ee7c-3c1a-11e7-8500-280a296f1244.jpeg)
 ![scientific_calc_2](https://cloud.githubusercontent.com/assets/25065479/26214429/0721f214-3c1a-11e7-8600-5662eb1fd4d5.jpeg)
